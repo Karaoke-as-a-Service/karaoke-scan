@@ -1,0 +1,17 @@
+{
+    "name": "karaoke-scan",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Andreas Monitzer",
+    "license": "CC0",
+    "dependencies": {
+        "iconv-lite": "^0.5.0",
+        "detect-character-encoding": "^0.8.0",
+        "node-walker": "^0.1.0",
+        "split-lines": "^2.0.0"
+    }
+}
